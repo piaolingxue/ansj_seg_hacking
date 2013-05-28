@@ -1,3 +1,6 @@
 [submodule "ansj_seg"]
 	path = ansj_seg
 	url = git://github.com/ansjsun/ansj_seg.git
+[submodule "TreeSplitWord"]
+	path = TreeSplitWord
+	url = git://github.com/ansjsun/TreeSplitWord.git
